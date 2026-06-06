@@ -4,6 +4,10 @@ Coursework project for Image Processing.
 
 This project implements histogram equalization from first principles for grayscale and RGB images. It includes manual RGB-to-grayscale conversion, 256-bin histogram computation, CDF-based equalization, independent RGB channel equalization, and brightness-preserving equalization.
 
+## Preview
+
+![Manual Histogram Equalization preview](assets/preview.png)
+
 ## Coursework Note
 
 Built as an academic project to practice implementing image enhancement algorithms from first principles and documenting visual results clearly.
